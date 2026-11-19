@@ -1,0 +1,3 @@
+[submodule "stanford-cs329z"]
+	path = stanford-cs329z
+	url = https://github.com/parker-brown-family/LearnAgenticAI-stanford-cs329z.git
